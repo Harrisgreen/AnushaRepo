@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C25-F1F4
+
+ Directory of C:\Users\Anusha\Desktop\GitPractice
+
+18-11-2019  11:10    <DIR>          .
+18-11-2019  11:10    <DIR>          ..
+18-11-2019  11:10                 0 anusha.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  115,506,778,112 bytes free
